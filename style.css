@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{
+    background-color: rgb(203, 209, 207);
+    border-radius: 70px 10%;
+
+}
+
+h3{
+    background-color: azure;
+    border-radius: 10px;
+}
+footer{
+    color: white;
+    background-color: rgb(14, 145, 145);
+    border-radius: 30px;
+}
